@@ -1,5 +1,5 @@
 """
-추가 이건 나의 것
+추가 이건 나의 것ㄴㅇㄴㅇㄴㅇ
 
 Django settings for git_sample project.
 
